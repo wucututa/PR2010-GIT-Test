@@ -1,0 +1,4 @@
+Cach tao 1 pull request
+B1 fork de tao ban sao t repo chung ve repo ca nhan
+B2 lay code ve bang lenh git clone [remotURL]
+B3 git remote add [ten remote] [remote URl]
