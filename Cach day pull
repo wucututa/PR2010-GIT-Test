@@ -1,0 +1,8 @@
+Cac buoc tao 1 pull request
+B1 tao nhanh moi
+truoc khi tao nhanh moi can kiem tra nhanh dang dung bang lenh: git branch
+neu dang o nhanh main thi moi co the tao ra nhanh moi bang lenh: git checkout -b [ten nhanh]
+B2 thuc hien viec tao files coding tren thu muc vua clone
+B3 add cac file vua tao bang lenh git add -A hoac git add .
+B4 tao commit bang lenh git commit -m [ten conmit]
+B5 day pull bang lenh git push origin [ten nhanh]
