@@ -1,0 +1,15 @@
+các bước tạo pull request như sau:
+bước 1: tạo nhánh mới 
+trước khi tạo nhánh mới cần kiểm tra nhánh đang đứng bằng lệnh:git branch
+nếu đang ở nhánh MAIN  thì có thể tạo nhánh mới bằng lệnh: git checkout -b (tên nhánh nên đặt theo ý tưởng liên quan tới cv)
+
+Bước 2: 
+thực hiện việc tao File, Coding trên thư mục vừa Clone.
+
+Bước 3:  Add các file vừa tạo bằng lệnh: git add -A 
+hoặc: git add .
+
+Buocws4 : tạo commit bằng lệnh: git commit -m (tên commit)
+
+Bước 5: đẩy pull bằng lệnh : git push origin (tên nhánh)
+
