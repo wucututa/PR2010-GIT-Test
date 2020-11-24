@@ -1,0 +1,9 @@
+git clone []
+git remote add [] []
+cd
+git branch
+git checkout-b ""
+git add .
+git commit -m """"
+git push origin ""
+
