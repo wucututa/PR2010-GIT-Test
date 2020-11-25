@@ -1,0 +1,17 @@
+fork
+git clone [S]
+cd
+git remote add awe [M]
+git remote -v
+
+git branch 
+git checkout -b ""
+modified
+git add .
+git commit -m [W]
+git push origin ""
+
+git checkout main
+git pull awe main
+git checkout ""
+git rebase main
