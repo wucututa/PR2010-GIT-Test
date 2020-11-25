@@ -1,0 +1,31 @@
+fork
+git clone [S]
+cd --
+git remote add [n] [M]
+git remote -v
+
+git branch
+git checkout -b [x]
+modified
+git add .
+git commit -m []
+git push origin [x]
+
+git checkout main
+git pull [n] main
+git checkout [x]
+git rebase main
+git checkout main
+git pull [n] main
+git checkout [x]
+git rebase main
+git checkout main
+git pull [n] main
+git checkout [x]
+git rebase main
+git checkout main
+git pull [n] main
+git checkout [x]
+git rebase main
+
+
