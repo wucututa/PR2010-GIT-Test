@@ -1,0 +1,22 @@
+
+
+
+Cac buoc tao 1 pull request
+
+B1 Fork tren github de tao ban sao cua repo chung ve github ca nhan (repo ca nhan)
+B2 Lay code tu github ve may tinh ca nhan bang lenh: git clone [remote URL]
+luu y remote URL duoc lay o github ca nhan sau kho da fork
+B3 Add remote (tao ket noi giua local va repo chung) bang lenh: git remote add [ten remote] [remote URL]
+Luu y remote URL o day la link duoc lay o github ban dau(repo chung)
+
+
+
+
+
+B4 tao nhanh moi
+truoc khi tao nhanh moi can kiem tra nhanh dang dung bang lenh: git branch
+neu dang o nhanh main thi moi co the tao ra nhanh moi bang lenh: git checkout -b [ten nhanh]
+B5 thuc hien viec tao files coding tren thu muc vua clone
+B6 add cac file vua tao bang lenh git add -A hoac git add .
+B7 tao commit bang lenh git commit -m [ten conmit]
+B8 day pull bang lenh git push origin [ten nhanh]
