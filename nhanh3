@@ -1,0 +1,17 @@
+fork
+clone: git clone
+cd ten thu muc
+git remote add awesome URL
+git branch
+git checkout -b 
+touch "tenfile"
+git add .
+git commit -m 'ten'
+git push origin
+git branch
+git checkout main
+git pull awesome main
+git checkout nhanh
+git status
+git rebase main
+
