@@ -1,0 +1,18 @@
+fork
+git clone []
+cd
+git remote add [] []
+git branch
+git checkout -b [""]
+viet ve gi day
+git add .
+git commit -m []
+git push origin [""]
+
+git branch
+git checkout main
+git pull main
+git checkout [""]
+git rebase main
+
+
