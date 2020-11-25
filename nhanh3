@@ -1,17 +1,32 @@
 fork
-clone: git clone
-cd ten thu muc
-git remote add awesome URL
+
+git clone [S]
+cd --
+git remote add [n] [M]
+git remote -v
+
 git branch
-git checkout -b 
-touch "tenfile"
+git checkout -b [x]
+modified
 git add .
-git commit -m 'ten'
-git push origin
-git branch
+git commit -m []
+git push origin [x]
+
 git checkout main
-git pull awesome main
-git checkout nhanh
-git status
+git pull [n] main
+git checkout [x]
+git rebase main
+git checkout main
+git pull [n] main
+git checkout [x]
+git rebase main
+git checkout main
+git pull [n] main
+git checkout [x]
+git rebase main
+git checkout main
+git pull [n] main
+git checkout [x]
+
 git rebase main
 
