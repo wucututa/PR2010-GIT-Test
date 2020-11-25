@@ -28,5 +28,4 @@ git checkout main
 git pull [n] main
 git checkout [x]
 
-git rebase main
 
