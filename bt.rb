@@ -11,4 +11,5 @@ a2.each do |x|
 sum +=x
 end
 puts sum
-#3
+
+a3 =[1,1]
